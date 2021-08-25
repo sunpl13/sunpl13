@@ -1,5 +1,5 @@
 <div align = center>
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)<br/>
+  [![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)]<br/>
 </div>
 
 <h2 align = "center"><b>:hammer: Stack :hammer:</b></h3><br/>
