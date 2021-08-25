@@ -1,6 +1,6 @@
-<div align = center>
-  [![header]](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)<br/>
-</div>
+
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)<br/>
+
 
 <h2 align = "center"><b>:hammer: Stack :hammer:</b></h3><br/>
 <h4 align = "center">I've used at least opnce!</h4>
@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/jung5_k/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p><br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13)](https://github.com/anuraghazra/github-readme-stats)
+  [![Jungsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13)](https://github.com/anuraghazra/github-readme-stats)]
 
 
 <!--
