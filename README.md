@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/jung5_k/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13)](https://github.com/sunpl13/github-readme-stats)
 
 <!--
 **sunpl13/sunpl13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
