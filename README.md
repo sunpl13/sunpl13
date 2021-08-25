@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)<br/>
-
+<div align = center>
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&width=100%&height=300&text=JungSoo's%20Github&section=header&fontSize=90&animation=fadeIn)<br/>
+</div>
 
 <h2 align = "center"><b>:hammer: Stack :hammer:</b></h3><br/>
 <h4 align = "center">I've used at least opnce!</h4>
