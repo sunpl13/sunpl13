@@ -12,8 +12,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-</p>
+</p><br/>
 
+<h2 align = "center"><b> :mailbox: SNS  :mailbox:</b></h3><br/>
 <a href="https://www.facebook.com/profile.php?id=100004304493733" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 ### Hi there 👋
 
