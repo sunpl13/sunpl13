@@ -22,6 +22,7 @@
   <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p><br/>
   [![Jungsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13@naver.com)](https://github.com/anuraghazra/github-readme-stats)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=sunpl13)
 
 
 <!--
