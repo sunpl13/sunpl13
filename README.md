@@ -2,7 +2,7 @@
 
 
 <h3 align = "center"><b>:hammer: Stack :hammer:</b></h3><br/>
-<p>
+<p align = "center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
