@@ -15,7 +15,11 @@
 </p><br/>
 
 <h2 align = "center"><b> :mailbox: SNS  :mailbox:</b></h3><br/>
-<a href="https://www.facebook.com/profile.php?id=100004304493733" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<p align = "center">
+  <a href="[연결할 링크]" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jung5_k/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="sunpl13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 ### Hi there 👋
 
 <!--
