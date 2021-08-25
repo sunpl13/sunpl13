@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
 </p><br/>
+  [![Jungsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13@naver.com)](https://github.com/anuraghazra/github-readme-stats)]
+  ![trophy](https://github-profile-trophy.vercel.app/?username=sunpl13)
 
 <h2 align = "center"><b> :mailbox: SNS  :mailbox:</b></h3><br/>
 <p align = "center">
@@ -21,8 +23,7 @@
   <a href="https://www.instagram.com/jung5_k/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p><br/>
-  [![Jungsoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunpl13@naver.com)](https://github.com/anuraghazra/github-readme-stats)]
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sunpl13)
+
 
 
 <!--
