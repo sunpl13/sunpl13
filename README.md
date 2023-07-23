@@ -32,7 +32,7 @@
   <a href="https://www.facebook.com/profile.php?id=100004304493733" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/jung5_k/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="https://www.notion.so/Frontend-Engineer-871c50080b6142dcad70877eeebf5bf2" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://sunpl13.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
 </p><br/>
 
 <h2 align = "center"><b>:chart_with_upwards_trend: &nbspStat&nbsp  :chart_with_upwards_trend:	</b></h2>
